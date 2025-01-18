@@ -9,7 +9,7 @@ Aplicação web para estudo de vestibulares, utilizando gamificação e IA.
 - `docs/`: Documentos e diagramas do projeto.
 
 ## Tecnologias
-- **Back-end**: Java, Spring Boot, PstgreSql.
+- **Back-end**: Java, Spring Boot, PostgreSQL.
 - **Front-end**: React, Redux.
 
 ## Contribuição
