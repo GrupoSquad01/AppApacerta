@@ -1,4 +1,4 @@
-# AppAcerta
+# Acerta!
 
 ## Objetivo
 Aplicação web para estudo de vestibulares, utilizando gamificação e IA.
